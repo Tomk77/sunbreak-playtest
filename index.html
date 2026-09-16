@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Sunbreak — Play</title>
+<meta name="description" content="Step into Sunbreak. A single-player adventure you can play in your browser.">
+<style>
+*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;overflow:hidden;background:#26392c;color:#fff1ce;font:14px Georgia,serif}header{height:36px;display:flex;align-items:center;justify-content:space-between;padding:0 16px;background:#18291f}header span{opacity:.8;font-size:12px}button{font:inherit;color:inherit;border:1px solid #caba8a;background:transparent;border-radius:3px;padding:3px 10px;cursor:pointer}#game{height:calc(100% - 36px);width:100%;position:relative}canvas{display:block;width:100%;height:100%;outline:0}#game:fullscreen{height:100%;background:#26392c}#loading{position:absolute;inset:0;display:flex;align-items:center;justify-content:center;text-align:center;background:#26392c;padding:24px}#loading h1{font-size:42px;font-style:italic;margin:0 0 16px}#loading p{line-height:1.6;max-width:440px;opacity:.9}progress{width:260px;height:7px;accent-color:#edaa64}a{color:inherit}#retry{display:none;margin:12px auto}#note{font-size:12px}#error{color:#ffb5a0;white-space:pre-wrap}
+</style>
+</head>
+<body>
+<header><div>Sunbreak <span> · Single-player playtest</span></div><button id="fullscreen" disabled>Fullscreen</button></header>
+<main id="game"><canvas id="unity-canvas" width="1280" height="720" tabindex="0" aria-label="Sunbreak game"></canvas>
+<div id="loading"><div><h1>Sunbreak</h1><p id="status">Preparing your adventure…</p><progress id="progress" max="1" value="0"></progress><p id="note">Play with a keyboard and mouse.<br>Each visit starts a fresh adventure.</p><p id="error" role="alert"></p><button id="retry" onclick="location.reload()">Try again</button><p><a href="StreamingAssets/ThirdPartyNotices.txt" target="_blank" rel="noopener">Credits &amp; asset notices</a></p></div></div></main>
+<script src="single-player.js"></script>
+<script src="Build/WebSinglePlayer.loader.js"></script>
+<script>
+const canvas=document.getElementById('unity-canvas');
+const fail=message=>{document.getElementById('loading').style.display='flex';document.getElementById('status').textContent='The game could not start.';document.getElementById('error').textContent=String(message);document.getElementById('retry').style.display='block';};
+createUnityInstance(canvas,{
+ dataUrl:'Build/WebSinglePlayer.data.unityweb',frameworkUrl:'Build/WebSinglePlayer.framework.js.unityweb',codeUrl:'Build/WebSinglePlayer.wasm.unityweb',
+ streamingAssetsUrl:'StreamingAssets',companyName:"Tom Klein",productName:"Sunbreak",productVersion:"0.1.0",
+ devicePixelRatio:Math.min(window.devicePixelRatio||1,1.5),matchWebGLToCanvasSize:true,
+ showBanner:(message,type)=>{if(type==='error')fail(message);else console.warn(message);}
+},p=>{document.getElementById('progress').value=p;document.getElementById('status').textContent=p<.9?'Loading your adventure… '+Math.round(p*100)+'%':'Preparing the world…';})
+.then(game=>{document.getElementById('loading').style.display='none';const fullscreen=document.getElementById('fullscreen');fullscreen.disabled=false;fullscreen.onclick=()=>{game.SetFullscreen(1);canvas.focus();};canvas.focus();})
+.catch(fail);
+</script>
+</body></html>

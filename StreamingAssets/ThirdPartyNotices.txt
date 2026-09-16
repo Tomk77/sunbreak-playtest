@@ -1,0 +1,742 @@
+SUNBREAK — THIRD-PARTY ASSET NOTICES
+
+The following source notices and attribution records accompany the retained game assets. Each record applies to its identified asset or package; no blanket license is granted for Sunbreak.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/audio/copyc4t/LICENSE.txt
+========================================================================
+
+LevelUp Sound Atmospheric by copyc4t (submitted by qubodup)
+Source: https://opengameart.org/content/levelup-sound-atmospheric
+License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
+Original: 141695__copyc4t__levelup.wav
+Modification: first 1.8 seconds, 8 ms fade-in, 550 ms cosine fade-out.
+No pitch change or loudness boost. Approved short E audition.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/audio/footsteps/gravel-license.txt
+========================================================================
+
+Derived from Pack: Gravel Footsteps by Ali_6868
+https://freesound.org/people/Ali_6868/packs/21608/
+
+https://creativecommons.org/publicdomain/zero/1.0/
+
+========================================================================
+Assets/Sunbreak/Resources/Content/audio/footsteps/water-license.txt
+========================================================================
+
+Derived from Water Footsteps by EminYILDIRIM
+https://freesound.org/people/EminYILDIRIM/sounds/608663/
+
+And footstep-concrete.wav by swuing
+http://www.freesound.org/people/swuing/sounds/38873/
+
+http://creativecommons.org/licenses/by/3.0/
+
+========================================================================
+Assets/Sunbreak/Resources/Content/audio/kenney/License.txt
+========================================================================
+
+RPG Audio
+
+	by  Kenney Vleugels (Kenney.nl)
+
+			------------------------------
+
+	License (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these assets in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Request:  http://request.kenney.nl
+
+	Follow on Twitter for updates:
+	@KenneyNL
+
+========================================================================
+Assets/Sunbreak/Resources/Content/audio/starninjas/LICENSE.txt
+========================================================================
+
+Coin tone 08 by StarNinjas, CC0.
+Source: https://opengameart.org/content/12-coin-sound-effects
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Original: coins_-_starninjas.zip / coin.8.ogg
+Copied unchanged. Original pitch and envelope, .21 cue x .25 master = 5.25% gain.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/fonts/bangers/OFL.txt
+========================================================================
+
+Copyright 2010 The Bangers Project Authors (https://github.com/googlefonts/bangers)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/fonts/nunito/OFL.txt
+========================================================================
+
+Copyright 2014 The Nunito Project Authors (https://github.com/googlefonts/nunito)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/models/kenney-coins/License.txt
+========================================================================
+
+Platformer Kit (4.1)
+
+	Created/distributed by Kenney (www.kenney.nl)
+	Creation date: 02-04-2026 11:29
+
+			------------------------------
+
+	License: (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You can use this content for personal, educational, and commercial purposes.
+
+	Support by crediting 'Kenney' or 'www.kenney.nl' (this is not a requirement)
+
+			------------------------------
+
+	• Website : www.kenney.nl
+	• Donate  : www.kenney.nl/donate
+
+	• Patreon : patreon.com/kenney
+
+	Follow on social media for updates:
+
+	• Twitter:	 twitter.com/KenneyNL
+	• BlueSky:	 kenney.bsky.social
+	• Instagram: instagram.com/kenney_nl
+
+========================================================================
+Assets/Sunbreak/Resources/Content/textures/cartooncoffee/License.txt
+========================================================================
+
+Thank you for downloading my product.
+
+If you want to get the most out of these VFX you can sign up to my newsletter for even more FREE VFX.
+
+NEWSLETTER:
+https://cartooncoffeegames.com/
+
+Or you check out the Ultimate Cartoon VFX MegaPack if you haven't yet.
+
+SPRITE SHEETS - VERSION:
+https://cartooncoffee.itch.io/megapack-spritesheets
+
+PNG SEQUENCES - VERSION:
+https://cartooncoffee.itch.io/megapack-video
+
+UNITY PREFABS - VERSION:
+https://cartooncoffee.itch.io/ultimate-cartoon-vfx-mega-pack
+
+-------------------------------------------
+
+[LICENSE]
+
+You are free to use these assets for any personal or commercial project.
+
+Modifications are allowed to be made for the sole purpose of use in your projects only.
+
+Modifying files does not give you ownership of files.
+
+You may not redistribute, sell, or share these VFX even if modified without written permission by Cartoon Coffee.
+
+COPYRIGHT
+
+Except for the rights mentioned above, all other rights remain the property of Cartoon Coffee
+
+CONTACT
+hicartooncoffee@gmail.com
+
+If you use this asset for something cool, drop me a line!
+
+========================================================================
+Assets/Sunbreak/Resources/Content/textures/kenney/License.txt
+========================================================================
+
+Particle Pack (1.1)
+
+	by Kenney Vleugels (Kenney.nl)
+
+	Additional credit for creating filter templates:
+	Indigo Ray, Craig Nisbet, Zoltan Erdokovy, Heliagon, ThreeDee, Killst4r and Tim2501
+
+			------------------------------
+
+	License (Creative Commons Zero, CC0)
+	http://creativecommons.org/publicdomain/zero/1.0/
+
+	You may use these assets in personal and commercial projects.
+	Credit (Kenney or www.kenney.nl) would be nice but is not mandatory.
+
+			------------------------------
+
+	Donate:   http://support.kenney.nl
+	Request:  http://request.kenney.nl
+
+	Follow on Twitter for updates: @KenneyNL (www.twitter.com/kenneynl)
+
+========================================================================
+Assets/Sunbreak/Resources/Content/textures/morningkingdom/LICENSE.md
+========================================================================
+
+# Shock Wave / Smoke — morningkingdom
+
+Selected by Tom for E's compact brown landing shockwave, 2026-09-08.
+Source: https://morningkingdom.itch.io/shock-wave-smoke
+Free download, original archive `source.rar`, supplied by Tom from itch.io.
+
+Publisher's license text: “you guys/gals can use however you want. Wherever you
+want except traning for ai.” The page also labels the pack CC0. Preserve the
+express no-AI-training restriction rather than assuming the metadata overrides it.
+No asset authorship or AI-detector claims have been independently verified.
+
+Runtime uses the top-down `426x426/small/frame_by_frame` ring: 69 actual PNGs,
+numbered 7–75 (the page description says 68). `scripts/prepare-landing-dust.py`
+packs those frames unchanged apart from resampling into a 256px-cell atlas.
+Three.js tints the white smoke brown and plays it once at the server impact.
+The original archive retains all resolutions and density variants.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/uber-water/LICENSE.txt
+========================================================================
+
+MIT License
+
+Copyright (c) 2025 MatrixRex
+Copyright (c) 2026 norio
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/audio/README.md
+========================================================================
+
+# Combat audio — first pass
+
+Kenney RPG Audio 1.0, Kenney Vleugels, CC0:
+https://kenney.nl/assets/rpg-audio
+Original license in kenney/License.txt. Selected recordings are unchanged.
+knifeSlice / knifeSlice2: retained audition assets, no longer played; chop: retained old landing sample;
+dropLeather: player damage; cloth1: quiet dodge movement.
+
+Electricity Sound Effects, Brian MacIntosh (BMacZero), CC0:
+https://opengameart.org/content/electricity-sound-effects-0
+https://creativecommons.org/publicdomain/zero/1.0/
+Original spark.wav (small Tesla generator recording), copied unchanged.
+Retained for the earlier audition; no longer used by Q.
+
+Celery Snap by saturdaysoundguy, CC0:
+https://freesound.org/people/saturdaysoundguy/sounds/388019/
+https://creativecommons.org/publicdomain/zero/1.0/
+Approved plant audition E, used for normal sword and cleave contact with enemies.
+The same HQ MP3 preview auditioned by the user is hosted locally, unchanged:
+https://cdn.freesound.org/previews/388/388019_7280678-hq.mp3
+Downloaded 2026-09-10. This is the MP3 preview, not the original WAV recording.
+
+Swishes Sound Pack, artisticdude, CC0:
+https://opengameart.org/content/swishes-sound-pack
+https://creativecommons.org/publicdomain/zero/1.0/
+Original swish-5.wav copied unchanged to artisticdude/swish-5.wav.
+User selected audition B for normal sword swings (all three combo steps).
+
+Female RPG Voice Starter Pack, Cici Fyre (cicifyre), CC0:
+https://opengameart.org/content/female-rpg-voice-starter-pack
+https://creativecommons.org/publicdomain/zero/1.0/
+Type 2 jump1, jump2, jump3 copied unchanged as cicifyre/jump*.wav.
+Source page explicitly lists CC0; credit appreciated, not required.
+Downloaded 2026-09-10. Original archives kept locally in assets/vendor/audio.
+
+Runtime trims silence with 5ms fades and limits peaks without amplifying quiet
+recordings. Mix gain reduced to 25% of the first pass after in-game feedback.
+Female dodge voice retained after clarification; normal swing uses approved Swish 5.
+No immediate variant repeats.
+Local accepted actions only; swing follows animation, contact follows damage.
+Mute/leave cancels active and pending audio. Max 10 voices and 65ms contact
+spacing prevent overlapping area hits from multiplying volume.
+
+Enable Settings → Sound effects to audition in game. This first pass covers
+basic sword combat, cleave, slam impact and dodge cloth. Magic, monster voices,
+footsteps, water, UI and music remain separate follow-up work.
+
+## Q — approved Hove lightning (round 2, A)
+
+Hove Audio — Lightning Magic SFX Pack, purchased by the user.
+https://hoveaudio.itch.io/lightning-magic-sound-effects-pack
+Original: Strike Solo/MAGElem_LightningStrikeSolo_HoveAud_LightningMagic_01.wav
+Source archive: Lightning Magic SFX Pack.zip supplied by the user.
+Copied unchanged to hove/lightning-strike-solo-01.wav. Paid asset: retain vendor
+terms; not CC0 and not a standalone sound library for redistribution.
+
+Runtime reproduces the short audition: silence trim, maximum 0.85 seconds,
+5 ms attack / 40 ms release, 4.2 kHz low-pass, original pitch and peak reduction
+only. Quiet .14 cue gain × .25 master gain. Once per accepted Q sweep, 80 ms
+before contact; plant contact retains the approved celery snap.
+
+Plant contact cue reduced to .28 × .25 master gain (about 26% quieter).
+
+## Ultimate — approved A, Sustained Shock
+Hove Audio, purchased Lightning Magic SFX Pack (same vendor terms as Q).
+Original: Shock Hold/MAGElem_LightningShockHold_HoveAud_LightningMagic.wav
+Copied unchanged to hove/lightning-shock-hold.wav from the user-supplied pack.
+One continuous six-second excerpt per accepted local ultimate, original pitch,
+4.2 kHz lowpass, 80 ms entry and 200 ms release; .18 cue × .25 master gain.
+No repeated per-target or per-pulse layering. Death, mute and leaving cancel playback.
+
+Ultimate damage pulses also trigger the quieter celery contact cue. Simultaneous
+targets share the 65 ms contact limiter; later damaging pulses play again.
+
+E takeoff voice: approved V2, Cici Fyre Type 2 attack2.wav (CC0), unchanged original at cicifyre/attack2.wav. Original pitch, quiet .32 cue gain, plays at SLAM.takeoff; cancelled if the animation is interrupted. Landing replacement still awaiting selection.
+
+## E landing — approved A, Rock Smash
+NeoSpica, CC0: https://freesound.org/people/NeoSpica/sounds/512243/
+User-supplied original 512243__neospica__rock-smash.wav copied unchanged to
+neospica/rock-smash.wav. Runtime first-impact excerpt capped at 1.6 seconds,
+5 ms entry / 40 ms release, original pitch and peak reduction only.
+Plays once on accepted slam-impact at .32 cue × .25 master gain.
+Replaces Kenney chop for E; selected Cici Fyre V2 voice remains at takeoff.
+
+## Footsteps
+Approved implementation defaults A dirt (Ali_6868/congusbongus CC0), C grass
+(Kenney CC0), E water (EminYILDIRIM and swuing/congusbongus CC BY 3.0).
+https://opengameart.org/content/footsteps-on-different-surfaces
+https://kenney.nl/assets/impact-sounds
+Files copied unchanged from audition; per-source licenses retained in footsteps/.
+Three dirt, three grass, two water takes, no immediate repeats. Two contacts per
+locomotion cycle, actual displacement required, no airborne/idle steps. Pond
+boundaries and trail/path proximity select material. .11 cue × .25 master,
+reduced to .055 cue during combat.
+
+## Current female efforts — Catgirl Fighting Voice Pack
+Cici Fyre, CC0: https://cicifyre.itch.io/free-catgirl-fighting-voice-pack
+Original WAVs copied unchanged into cicifyre/catgirl/:
+- 005_swing.wav: ultimate opening, once alongside Sustained Shock.
+- 004_swing.wav: E takeoff, replacing RPG Type 2 attack2.
+- 001_swing.wav and 003_swing.wav: dodge, alternating without immediate repeats.
+All retain original pitch, silence trim, peak reduction and .32 cue × .25 master.
+Mute/leave clear all voices; death cancels the ultimate effort and electricity.
+Previous RPG recordings retained as audition assets, not active effort cues.
+
+## Level-up
+LevelUp Sound Atmospheric by copyc4t (submitted by qubodup)
+Source: https://opengameart.org/content/levelup-sound-atmospheric
+License: CC BY 3.0 https://creativecommons.org/licenses/by/3.0/
+Original: 141695__copyc4t__levelup.wav
+Modification: first 1.8 seconds, 8 ms fade-in, 550 ms cosine fade-out.
+No pitch change or loudness boost. Approved short E audition.
+Local player only, once per observed level increase alongside the golden VFX.
+Preserves excerpt unchanged at .6 cue x .25 master = 15% audition gain.
+Uses shared mute, voice cap and leave cleanup. No sound on initial snapshot.
+
+## Coin collection
+Coin tone 08 by StarNinjas, CC0.
+Source: https://opengameart.org/content/12-coin-sound-effects
+License: https://creativecommons.org/publicdomain/zero/1.0/
+Original: coins_-_starninjas.zip / coin.8.ogg
+Copied unchanged. Original pitch and envelope, .21 cue x .25 master = 5.25% gain.
+Once per local balance increase; pickups within 150 ms share a cue. Initial snapshots are silent; shared mute and cleanup apply.
+
+Coin mix adjustment: reduced pickup gain by 30%, from .21 to .147 cue gain (3.675% after master).
+
+Coin mix: now 50% below original, .105 cue x .25 master = 2.625% gain. Option E preview matches at its default slider.
+
+Coin mix: now 20% of original volume, .042 cue x .25 master = 1.05% gain. Option E preview matches at its default slider.
+
+### Wake-up surprise alert
+- `wake-up-alert.wav`: djlprojects, [Metal Gear Solid Inspired Alert Surprise SFX](https://freesound.org/people/djlprojects/sounds/413641/), creator-listed CC0. Original WAV supplied and selected by user, source filename `413641__djlprojects__metal-gear-solid-inspired-alert-surprise-sfx.wav`. No edits or pitch changes.
+- Wake-up studio: once at the exclamation mark (1.2 seconds), default effective gain 5.25% (15% slider × 0.35). Stop/reset/scrub/view changes cancel playback. Main-game cutscene remains pending.
+
+Level-up playback gain: 0.384 (latest reduction: 20% from 0.48); approved excerpt and fade unchanged.
+
+Q lightning playback gain: 0.168 (increased 20% from 0.14).
+
+========================================================================
+Assets/Sunbreak/Resources/Content/models/interior/README.md
+========================================================================
+
+Interior props: Kenney Furniture Kit, CC0, https://kenney.nl/assets/furniture-kit
+Architecture: Quaternius Medieval Village pack, existing project-owned source and license.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/textures/vivid-motion/README.md
+========================================================================
+
+# Vivid Motion — Universal Status Effects VOL.2
+
+Source: https://vivid-motion-assets.itch.io/universal-status-effects-vol-2
+Author: Vivid Motion Assets. Downloaded 2026-09-09 through the free download option.
+
+`slow-status-v2.png` is the unchanged Slow Status V2 spritesheet from
+`VividMotion_Universal_Status_Effects/Effects/slow-status-v2/Spritesheet/`.
+792 × 528 RGBA; 24 frames in six columns and four rows. Each 128 × 128 frame
+occupies a padded 132 × 132 cell. Runtime playback: 24 fps, 44px cell size.
+
+The publisher grants personal/commercial game use and modification. Credit is
+optional. Raw spritesheets/frame sequences may not be resold, sublicensed or
+redistributed as standalone assets, even if modified; do not claim authorship.
+This file is included solely as an integrated Sunbreak game resource.
+The complete archive and original license README are retained locally under
+the ignored `assets/vendor/vivid-motion/` directory.
+
+========================================================================
+Assets/Sunbreak/Resources/Content/textures/zy-cycle/README.md
+========================================================================
+
+Cycle Buff Level Up by ZY VFX — purchased by user 2026-09-10.
+Source: https://zy-vfx.itch.io/cycle-buff-level-up
+Original ZIP and 75 RGBA 2160x4096 frames preserved in assets/vendor/zy-cycle/source.
+Runtime: alpha-bound union crop [346,386,1841,3658], aspect-preserving resize into padded 256x384 cells, 8x10 lossless WebP atlas. 75 frames played at 30fps (2.5s playback chosen for game). Shared texture, per-instance UV transforms, normal depth testing, lifecycle cap 32.
+The purchased archive contained no separate license file. Publisher describes use in game development pipelines; no claim of CC0/open-source licensing is made. Do not redistribute original source pack independently.
+
+========================================================================
+Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+========================================================================
+
+Digitized data copyright (c) 2010 Google Corporation
+	with Reserved Font Arimo, Tinos and Cousine.
+Copyright (c) 2012 Red Hat, Inc.
+	with Reserved Font Name Liberation.
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at: http://scripts.sil.org/OFL
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide development of collaborative font projects, to support the font creation efforts of academic and linguistic communities, and to provide a free and open framework in which fonts may be shared and improved in partnership with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and redistributed freely as long as they are not sold by themselves. The fonts, including any derivative works, can be bundled, embedded, redistributed and/or sold with any software provided that any reserved names are not used by derivative works. The fonts and derivatives, however, cannot be released under any other type of license. The requirement for fonts to remain under this license does not apply to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright Holder(s) under this license and clearly marked as such. This may include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting, or substituting -- in part or in whole -- any of the components of the Original Version, by changing formats or by porting the Font Software to a new environment.
+
+"Author" refers to any designer, engineer, programmer, technical writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining a copy of the Font Software, to use, study, copy, merge, embed, modify, redistribute, and sell modified and unmodified copies of the Font Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components, in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled, redistributed and/or sold with any software, provided that each copy contains the above copyright notice and this license. These can be included either as stand-alone text files, human-readable headers or in the appropriate machine-readable metadata fields within text or binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font Name(s) unless explicit written permission is granted by the corresponding Copyright Holder. This restriction only applies to the primary font name as presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font Software shall not be used to promote, endorse or advertise any Modified Version, except to acknowledge the contribution(s) of the Copyright Holder(s) and the Author(s) or with their explicit written permission.
+
+5) The Font Software, modified or unmodified, in part or in whole, must be distributed entirely under this license, and must not be distributed under any other license. The requirement for fonts to remain under this license does not apply to any document created using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+========================================================================
+Assets/Sunbreak/Resources/Content/fonts/crimsontext/OFL.txt
+========================================================================
+Copyright 2010 The Crimson Text Project Authors (https://github.com/googlefonts/Crimson)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This license is copied below, and is also available with a FAQ at:
+https://scripts.sil.org/OFL
+
+
+-----------------------------------------------------------
+SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
+-----------------------------------------------------------
+
+PREAMBLE
+The goals of the Open Font License (OFL) are to stimulate worldwide
+development of collaborative font projects, to support the font creation
+efforts of academic and linguistic communities, and to provide a free and
+open framework in which fonts may be shared and improved in partnership
+with others.
+
+The OFL allows the licensed fonts to be used, studied, modified and
+redistributed freely as long as they are not sold by themselves. The
+fonts, including any derivative works, can be bundled, embedded,
+redistributed and/or sold with any software provided that any reserved
+names are not used by derivative works. The fonts and derivatives,
+however, cannot be released under any other type of license. The
+requirement for fonts to remain under this license does not apply
+to any document created using the fonts or their derivatives.
+
+DEFINITIONS
+"Font Software" refers to the set of files released by the Copyright
+Holder(s) under this license and clearly marked as such. This may
+include source files, build scripts and documentation.
+
+"Reserved Font Name" refers to any names specified as such after the
+copyright statement(s).
+
+"Original Version" refers to the collection of Font Software components as
+distributed by the Copyright Holder(s).
+
+"Modified Version" refers to any derivative made by adding to, deleting,
+or substituting -- in part or in whole -- any of the components of the
+Original Version, by changing formats or by porting the Font Software to a
+new environment.
+
+"Author" refers to any designer, engineer, programmer, technical
+writer or other person who contributed to the Font Software.
+
+PERMISSION & CONDITIONS
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of the Font Software, to use, study, copy, merge, embed, modify,
+redistribute, and sell modified and unmodified copies of the Font
+Software, subject to the following conditions:
+
+1) Neither the Font Software nor any of its individual components,
+in Original or Modified Versions, may be sold by itself.
+
+2) Original or Modified Versions of the Font Software may be bundled,
+redistributed and/or sold with any software, provided that each copy
+contains the above copyright notice and this license. These can be
+included either as stand-alone text files, human-readable headers or
+in the appropriate machine-readable metadata fields within text or
+binary files as long as those fields can be easily viewed by the user.
+
+3) No Modified Version of the Font Software may use the Reserved Font
+Name(s) unless explicit written permission is granted by the corresponding
+Copyright Holder. This restriction only applies to the primary font name as
+presented to the users.
+
+4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font
+Software shall not be used to promote, endorse or advertise any
+Modified Version, except to acknowledge the contribution(s) of the
+Copyright Holder(s) and the Author(s) or with their explicit written
+permission.
+
+5) The Font Software, modified or unmodified, in part or in whole,
+must be distributed entirely under this license, and must not be
+distributed under any other license. The requirement for fonts to
+remain under this license does not apply to any document created
+using the Font Software.
+
+TERMINATION
+This license becomes null and void if any of the above conditions are
+not met.
+
+DISCLAIMER
+THE FONT SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT
+OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE
+COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,
+INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
+DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
+FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
+OTHER DEALINGS IN THE FONT SOFTWARE.
