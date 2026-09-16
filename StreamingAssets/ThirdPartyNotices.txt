@@ -740,3 +740,10 @@ INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
 DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING
 FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM
 OTHER DEALINGS IN THE FONT SOFTWARE.
+
+
+Warm Meadow v1 — JulioVII
+Stylized Grass & Dirt by JulioVII / Julio Sillet
+https://juliovii.itch.io/ftpgrass-dirt
+License: CC-BY as stated by the creator (version not specified on the pack page).
+Dirt 01 and GrassAndDirt 01 colour/normal maps. Material adaptation: palette, contrast, tiling, normal strength and grass-edge blending.
